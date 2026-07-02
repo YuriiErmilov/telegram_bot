@@ -1,8 +1,4 @@
 package pro.sky.telegrambot.model;
-
-
-import liquibase.pro.packaged.L;
-
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
